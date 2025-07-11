@@ -44,6 +44,6 @@
 ---
 
 ## 📫 Let's Connect
-- [LinkedIn](https://linkedin.com/in/baderboshnak)
-- 📧 bader.boshnak@example.com
+- [LinkedIn](https://www.linkedin.com/in/bader-boshnak-030302289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📧 bader.boshnak.111111@gmail.com
 - 💻 [GitHub](https://github.com/baderboshnak)
